@@ -1,5 +1,2 @@
-# frontend_datagovprod
-Front-end do projeto de classificação de textos jurídicos
-
-
-![frontned](/imgs/frontend.png "Frontend")
+# Front-end do projeto py-classifica-legal
+![frontend](/imgs/frontend.png "Frontend")
